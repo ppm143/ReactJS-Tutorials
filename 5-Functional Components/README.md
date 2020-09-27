@@ -1,5 +1,7 @@
 > ## Functional Components
-
+>
+> ![Functional Components](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/Components/func.png)
+>
 > ### **Greet.js** component
 
 - Component name is **Pascal** Convention.
