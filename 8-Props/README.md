@@ -5,10 +5,11 @@
 - It allows component to be **dynamic**.
 - Props are **Immutable**.
 
-  > ### Pass name in Greet component
+> ### Pass name in Greet component
 
-- In **App.js**
-  ![App.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/props/appjs.png)
+> ### App.js
+
+- ![App.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/props/appjs.png)
 
 ```js
 import React, { Component } from "react";
@@ -35,8 +36,9 @@ class App extends Component() {
 export default App;
 ```
 
-- In **Greet.js**
-  ![Greet.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/props/greetjs.png)
+> ### Greet.js
+
+- ![Greet.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/props/greetjs.png)
 
 ```js
 import React from "react";
@@ -55,8 +57,9 @@ const Greet = (props) => {
 export default Greet;
 ```
 
-- In **Welcome.js**
-  ![Welcome.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/props/welcomejs.png)
+> ### Welcome.js
+
+- ![Welcome.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/props/welcomejs.png)
 
 ```js
 import React, { Component } from "react";
