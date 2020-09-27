@@ -22,8 +22,8 @@
 
 > ## When button click message should be change
 
-- In **App.js**
-  ![App.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/state/appjs.png)
+> ## In **App.js**
+![App.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/state/appjs.png)
 
 ```js
 import React, { Component } from "react";
@@ -41,9 +41,8 @@ class App extends Component() {
 
 export default App;
 ```
-
-- In **Message.js**
-  ![Message.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/state/messagejs.png)
+> ## In **Message.js**
+![Message.js](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/state/messagejs.png)
 
 ```js
 import React, { Component } from "react";
