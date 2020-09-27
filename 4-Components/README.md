@@ -1,5 +1,5 @@
-> ## Components
-![Components](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/Components/1.png)
+> # Components
+  ![Components](https://github.com/ppm143/AllProjectImages/blob/master/ReactJS%20Tutorial/Components/1.png)
 
 - component describe a part of the user interface
 - Reusable
@@ -8,7 +8,7 @@
 - Component placed in js or jsx files.
 - Facebook has 33k components
 
-  > ### Types of components
+  > ## Types of components
    **1. Functional Component**
 
 - Javascript Functions
@@ -19,7 +19,7 @@ function Welcome(props){
 }
 ```
 
-**1. Class Component**
+**2. Class Component**
 
 - Class extending component class
 - Render method returning HTML
