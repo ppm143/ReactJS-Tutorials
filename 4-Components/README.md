@@ -8,7 +8,7 @@
 - Component placed in js or jsx files.
 - Facebook has 33k components
 
-  > ## Types of components
+> ## Types of components
    **1. Functional Component**
 
 - Javascript Functions
