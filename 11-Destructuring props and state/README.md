@@ -22,8 +22,7 @@ export default Greet;
 ```
 
 > ### Two ways
->
-> **1. In the function parameters**
+**1. In the function parameters**
 
 ```js
 import React from "react";
@@ -80,7 +79,7 @@ class Welcome extends Component() {
 export default Welcome;
 ```
 
-**In the render method**
+> ###**In the render method**
 
 ```js
 import React, { Component } from "react";
