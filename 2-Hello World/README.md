@@ -5,14 +5,14 @@
 
 > ## Create React App
 
-1. Using npx
+1. ###**Using npx**
 
 - **npx is npm package runner**
 - `npx create-react-app project-name`
 - `cd project-name`
 - `npm start`
 
-1. Using npm
+2. ###**Using npm**
 
 - `npm install create-react-app -g`
 - `create-react-app project-name`
