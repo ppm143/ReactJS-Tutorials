@@ -25,6 +25,6 @@ export default PortalDemo
 >## Why do we need portal?
 - having a deal with parent component css when child component is a model, pop-up or tooltip.
 
-- [Click Here For Demo of Portals]("https://codesandbox.io/s/00254q4n6p")
+- [Click Here For Demo of Portals](https://codesandbox.io/s/00254q4n6p)
 
 - [Portal Event Bubbling](https://codepen.io/gaearon/pen/jGBWpE)
